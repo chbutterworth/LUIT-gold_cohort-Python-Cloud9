@@ -1,1 +1,1 @@
-print('Hello Pitiful World')
+print('Hello World!')
