@@ -1,11 +1,11 @@
-#!/usr/bin/env python3.7
+#!/usr/bin/env python3.8.16
 
 import os
 
 # Get the current working directory
 current_dir = os.getcwd()
 
-# Create an empty list to store file information
+# Create an empty list to store file info
 file_info = []
 
 # Go through the directory tree and get file info
